@@ -1,0 +1,5 @@
+Bundle-Name: test-vuejs-web
+Bundle-SymbolicName: test.vuejs.web
+Bundle-Version: 1.0.0
+Export-Package: test.vuejs.web.constants
+Web-ContextPath: /test-vuejs-web

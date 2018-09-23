@@ -1,0 +1,5 @@
+Bundle-Name: test-angular-web
+Bundle-SymbolicName: test.angular.web
+Bundle-Version: 1.0.0
+Export-Package: test.angular.web.constants
+Web-ContextPath: /test-angular-web

@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+
+<model-hints>
+	<model name="order.model.Order">
+		<field name="uuid" type="String" />
+		<field name="orderNumber" type="long" />
+		<field name="groupId" type="long" />
+		<field name="companyId" type="long" />
+		<field name="userId" type="long" />
+		<field name="userName" type="String" />
+		<field name="createDate" type="Date" />
+		<field name="modifiedDate" type="Date" />
+		<field name="orderStatus" type="String" />
+		<field name="accountName" type="String" />
+		<field name="orderStartDate" type="Date" />
+		<field name="createdBy" type="String" />
+		<field name="location" type="String" />
+	</model>
+</model-hints>

@@ -1,0 +1,5 @@
+Bundle-Name: test-react-web
+Bundle-SymbolicName: test.react.web
+Bundle-Version: 1.0.0
+Export-Package: test.react.web.constants
+Web-ContextPath: /test-react-web
